@@ -1,3 +1,2 @@
-3,4,5,6,7])
-# print(var[0])
-# print(var[-2])
+
+# ar = np.vstack((var1,var2))
