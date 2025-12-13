@@ -30,5 +30,6 @@ l= ["area1",'area2',"area3"]
 c = ["r","g","m"]
 plt.stackplot(x,area1,area2,area3,labels=l,colors=c,baseline="wiggle")
 
+plt.grid()
 plt.legend(loc=2)
 plt.show()
