@@ -49,7 +49,7 @@ x1= pd.DataFrame({
     "var":var,
     "var1":var1
 })
-y1=sns.load_dataset("penguins")
+y1=sns.load_dataset("penguins").head(20)
 
 
 # plt.plot(var,var1)
@@ -58,7 +58,8 @@ y1=sns.load_dataset("penguins")
 
 # print(y1)
 
-sns.lineplot(x="bill_length_mm",y="bill_depth_mm",data=y1,hue="sex",style="sex",palette="Accent",markers=["o",">"])
+sns.lineplot(x="bill_length_mm",y="bill_depth_mm",data=y1,hue="sex",style="sex",palette="Accent",markers=["o",">"],dashes=True,legend="full")
 
-
+plt.grid()
+plt.title("Python")
 plt.show()
