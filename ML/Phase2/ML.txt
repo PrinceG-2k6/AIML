@@ -1,33 +1,34 @@
 3 Types of Machine Learning 
 
-1.Supervised Learning
-    Ideal for task with labeled data where the desired output is known.
+1. Supervised Learning
+    Ideal for tasks with labeled data where the desired output is known.
+    Examples: Classification, Regression
 
-2.Unsupervised Learning
-    Suitable for identifying patterns in unlabeled data without explicit guidance
+2. Unsupervised Learning
+    Suitable for identifying patterns in unlabeled data without explicit guidance.
+    Examples: Clustering, Dimensionality Reduction
 
-3.Reinforcement Learning
-    Best for teaching agents to make decision through interaction with an environment
-    Like teaching dog to sit and punish if it not follows
-
+3. Reinforcement Learning
+    Best for teaching agents to make decisions through interaction with an environment.
+    Like teaching a dog to sit and rewarding if it follows, punishing if it doesn't.
 
 __________________________________
 
 ML Concept Overview
 
-Input(x)    --Question
-Output(y)   --Answer
-Model       --
-Training
-Testing
-Prediction
+Input(x)     -- Question/Features
+Output(y)    -- Answer/Target Label
+Model        -- Algorithm/Mathematical representation
+Training     -- Learning from data
+Testing      -- Evaluating performance
+Prediction   -- Making decisions on new data
 
 ___________________________________
 
-Scikit Learn Provide Ready-made Models for Training Testing
+Scikit-Learn Provides Ready-made Models for Training & Testing
 
-X   Input
-Y   Output
-Recipe  --Model
-Practice Baking  --Training
-Improving Model 
+X            -- Input features
+Y            -- Output labels
+Recipe       -- Model/Algorithm
+Practice Baking -- Training/Fitting model
+Improving Model -- Hyperparameter tuning, cross-validation
