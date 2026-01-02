@@ -28,3 +28,15 @@ MindSet:
     Treat Raw Data
     PreProcessing
     No COPY PASTE
+__________________________________________
+
+handle Missing Data:
+
+before droping NAN Values
+First try to fill data with some Values 
+    For Numeric Value ; Try to fill with mean or median
+    For String Value : Place Some Word Like Unknown
+
+------------------------------------------
+
+encoding
