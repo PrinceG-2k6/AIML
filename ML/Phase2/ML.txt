@@ -9,3 +9,25 @@
 3.Reinforcement Learning
     Best for teaching agents to make decision through interaction with an environment
     Like teaching dog to sit and punish if it not follows
+
+
+__________________________________
+
+ML Concept Overview
+
+Input(x)    --Question
+Output(y)   --Answer
+Model       --
+Training
+Testing
+Prediction
+
+___________________________________
+
+Scikit Learn Provide Ready-made Models for Training Testing
+
+X   Input
+Y   Output
+Recipe  --Model
+Practice Baking  --Training
+Improving Model 
