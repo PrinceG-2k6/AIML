@@ -1,0 +1,91 @@
+60 70 80 80 85 90 100 100
+7 students
+
+overall aversge?
+middle student?
+score appeared ?
+
+
+meaan = (x1 + x2......+xn)/n
+median = middle value(if odd count), midlle 2 average(even count)
+mode = mot repeateed value
+
+-------------
+10,20,30
+mean = 20
+median  =20
+mode = all value
+--------
+
+actual value => y_true = what really happened
+predicted value => y_pred = what our model think will happen
+
+difference between actual and predicted value is error
+
+this  helps to analyze outlier
+10,20,30,1000
+1000 is outlier
+------------------------------------------
+
+Percentage & Ration
+60 run , 100 balls
+6:10 ===3:5
+60% strike rate
+
+Accuracy = (corrected prediction/ Total predction) * 100
+Precision = (true Positivies/Total predictive positivies)
+Recall = (Ttru positives/ Total actual positivies)
+
+percentage - out of 100 - How much happened
+ration - Comparison
+a:b == a/b
+
+p = (part/whole)*100
+ration = part/whole
+
+total =100
+correct = 90
+wrong =10
+Accuracy = (90/100)*100 = 90%
+
+15 actual out 0f 20
+Precision = 15/20 = 0.75 = 75%
+
+-------------------------------------
+ALGEBRA
+-----------------------------------
+y= mx + c
+500 daily income 
+1000 joining bonus
+
+Day income
+0   1000
+1   1500
+2   2000
+
+
+y=mx+c
+y= final salary,output , prediction
+x = days worked
+m= 500/days
+c = 1000 bonus
+
+------------------------
+vectors
+
+v= xi + yj
+means position by moving x in i direction and y in j direction
+
+for student of height = 170 cm weight= =65kg
+[x,y]=[170,65]
+
+------------------
+STANDARD DEVIATION
+
+70,32,68
+
+deviation = each value - mean value
+
+70,32,68 is more deviated than 20,22,24
+
+----------------------------
