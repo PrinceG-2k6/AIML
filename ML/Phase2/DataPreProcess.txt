@@ -1,0 +1,25 @@
+Data PreProcessing Funnel
+
+RAW Data
+    |   
+   \|/
+1. Handling Missing Data
+   - Remove rows/columns with missing values
+   - Imputation (mean, median, mode, forward/backward fill)
+   
+2. Encode Categorical Values
+   - One-hot encoding: {male: 0, female: 1}
+   - Label encoding for ordinal data
+   
+3. Feature Scaling
+   - Normalization: Scale values to range (0-1)
+   - Standardization: Mean=0, Std Dev=1
+   - Example: Column C1 values (1-10) → scaled values
+   
+4. Split Data
+   - Training set (~70-80%)
+   - Validation set (~10-15%)
+   - Test set (~10-15%)
+    |   
+   \|/
+PREPARED DATA
