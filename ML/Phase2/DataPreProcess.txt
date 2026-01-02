@@ -23,3 +23,8 @@ RAW Data
     |   
    \|/
 PREPARED DATA
+
+MindSet:
+    Treat Raw Data
+    PreProcessing
+    No COPY PASTE
