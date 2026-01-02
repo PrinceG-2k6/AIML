@@ -1,0 +1,11 @@
+3 Types of Machine Learning 
+
+1.Supervised Learning
+    Ideal for task with labeled data where the desired output is known.
+
+2.Unsupervised Learning
+    Suitable for identifying patterns in unlabeled data without explicit guidance
+
+3.Reinforcement Learning
+    Best for teaching agents to make decision through interaction with an environment
+    Like teaching dog to sit and punish if it not follows
